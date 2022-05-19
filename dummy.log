@@ -1,0 +1,9 @@
+{"timestamp" : "2020-12-01T00:12:21.000", "Field1": true, "Field_Doc": {"f1": "x", "f2": "y"}}
+{"timestamp" : "2020-12-01T00:12:21.000", "Field2": "", "Field_Doc": {"f1": false, "f2": {}, "f3": "z"}}
+{"timestamp" : "2020-12-01T00:12:22.000", "Field3": "[]", "Field_Doc": {"f2": 10, "f1": 9, "f3": 6.54 }}
+{"timestamp": "2021-07-04T04:03:18.933Z", "Field1": 0, "Field2": "dummy", "Field4": {"f5": { "f2": true}}}
+{"timestamp": "2021-07-04T04:03:18.933Z", "Field6": null, "Field5": 3.56, "Field3": {"f6": { "f8": 2.44}}}
+{"timestamp": "2021-07-04T04:03:18.933Z", "Field1": true, "Field5": false, "Field4": {"f6": { "f4": 2.44}}}
+{"timestamp": "2021-07-04T04:03:18.933Z", "Field8": 3.56, "Field3": null, "Field6": {"f3": { "f8": "dummy"}}}
+{"timestamp": "2021-07-04T04:03:18.933Z", "Field2": 0, "Field7": 1, "Field8": {"f5": { "f1": "dummy"}}}
+{"timestamp": "2021-07-04T04:03:18.933Z", "Field2": null, "Field3": 0, "Field4": {"f7": { "f2": 2.44}}}
