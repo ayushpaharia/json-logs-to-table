@@ -19,6 +19,6 @@ And finally to run you can do
 ```
 
 ## Benchmarks
-`128MB` -  5:22:470 (m:ss:mmm)
-`256MB` - 7:48.926   (m:ss.mmm)
+`128MB` -  5:22:470 (m:ss:mmm)<br/>
+`256MB` - 7:48.926   (m:ss.mmm)<br/>
 `512MB` - 15:44.217 (m:ss.mmm)
